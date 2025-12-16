@@ -1,5 +1,7 @@
-# EZ_THEME
+# EZ THEME
 EZ THEME: A theme for V2Board / wyxBoard / XBoard
+
+TAG: V2B 主题 \ V2B 开源主题 \ XB 主题 \ 主题 \ 面板美化包 \ V2Board 主题
 
 # V2Board User 前端项目
 
