@@ -7,6 +7,12 @@ TAG: V2B 主题 \ V2B 开源主题 \ XB 主题 \ 主题 \ 面板美化包 \ V2Bo
 
 主题预览: https://t.me/Star_shipx/251
 
+接主题定制！定制价格 500U 起，可选择开发语言 VUE / REACT, JS / TS
+
+定制案例：https://t.me/Star_shipx/293
+
+可以定制注册购买功能
+
 # V2Board User 前端项目
 
 一个美观、现代的V2Board管理后台前端项目，基于Vue 3开发。
